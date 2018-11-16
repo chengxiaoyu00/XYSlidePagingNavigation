@@ -1,0 +1,23 @@
+PODS:
+  - SnapKit (3.2.0)
+  - XYSlidePagingNavigation (0.1.0):
+    - SnapKit (~> 3.2.0)
+
+DEPENDENCIES:
+  - XYSlidePagingNavigation (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  XYSlidePagingNavigation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  XYSlidePagingNavigation: 776f4ca4c31f7fa4437a739cd42ec165ed41cfeb
+
+PODFILE CHECKSUM: c4200971b4eefb9481020badeaba55c6408ed422
+
+COCOAPODS: 1.5.3

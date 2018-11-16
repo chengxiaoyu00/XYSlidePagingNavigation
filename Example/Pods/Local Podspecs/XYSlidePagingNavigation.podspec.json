@@ -1,0 +1,27 @@
+{
+  "name": "XYSlidePagingNavigation",
+  "version": "0.1.0",
+  "summary": "A short description of XYSlidePagingNavigation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chengxiaoyu00/XYSlidePagingNavigation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chengxiaoyu00": "zacjjj@163.com"
+  },
+  "source": {
+    "git": "https://github.com/chengxiaoyu00/XYSlidePagingNavigation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XYSlidePagingNavigation/Classes/**/*",
+  "dependencies": {
+    "SnapKit": [
+      "~> 3.2.0"
+    ]
+  }
+}

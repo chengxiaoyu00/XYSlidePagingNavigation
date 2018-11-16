@@ -1,0 +1,6 @@
+framework module XYSlidePagingNavigation {
+  umbrella header "XYSlidePagingNavigation-umbrella.h"
+
+  export *
+  module * { export * }
+}

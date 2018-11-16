@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XYSlidePagingNavigation_Example' do
+  pod 'XYSlidePagingNavigation', :path => '../'
+
+  target 'XYSlidePagingNavigation_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
